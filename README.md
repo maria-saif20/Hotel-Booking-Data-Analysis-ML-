@@ -1,7 +1,7 @@
 # Exploratory Data Analysis (EDA)
 
 ## Exploratory Data Analysis (EDA)
-In this section, we perform an exploratory data analysis to understand the dataset better. We will look at various aspects of the data through visualizations and statistical analysis.
+In this section, we perform exploratory data analysis to better understand the dataset. We will examine various aspects of the data through visualizations and statistical analysis.
 
 
 ## Overview
@@ -22,7 +22,7 @@ pip install matplotlib.pyplot pandas numpy seaborn
 
 1. **Clone this repository**:
     ```bash
-    git clone https://github.com/your-username/hotel-booking-analysis.git
+    git clone https://github.com/maria-saif20/Hotel-Booking-Data-Analysis-ML-.git
     ```
 2. **Load the Data**: Place your hotel booking dataset in the project directory.
 3. **Run the Analysis**: Open `hotel_booking_analysis.ipynb` in Jupyter Notebook and execute the cells to perform analysis.
